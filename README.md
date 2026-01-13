@@ -8,3 +8,7 @@ sos.plander.org
 n.plander.org
 37.27.251.36
 public key: cf99766f715590aea6b906622e2bb1f0a7f03c2088b5e4b250c3da5305054770
+
+
+ssh user: root
+ssh pass: 909090
